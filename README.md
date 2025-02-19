@@ -1,16 +1,72 @@
-## Hi there 👋
+# Howdy! 👋 I'm Nick
 
-<!--
-**My80vette/My80vette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-capriotti-5775031b9/)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a new grad looking to break into the tech field, Im interested in backend engineering, and I'm really starting to enjoy creating dumb little tools with all the fun pre-trained AI models that are flooding the market.  I love exploring new technologies and practicing system design.  Feel free to browse my repositories and connect with me! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Side Project
+
+<img src="https://img.icons8.com/color/48/000000/rocket.png" width="24" height="24">
+
+*   **LifeFlow Kanban Board:** A kanban style to-do list to study relational database design, introduce myself to React, and strengthen my TS/JS/Python skills. [See My Progress](https://github.com/My80vette/lifeFlow_Kanban_Board)
+
+
+## 📚 What I'm Learning
+
+<img src="https://img.icons8.com/color/48/000000/open-book.png" width="24" height="24">
+
+*   **React Framework:** React, and other front end frameworks are important to my development as an engineer. Learning a to use a powerful front end tool allows me to go from creating small, technical, academic type "projects", to developing actual applications.
+*   **Ollama Local LLMs:** While it's really cool to see all the amazing tools developers are making with AI, I have more fun learning HOW the tools work, seeing behind the curtain, and being able to build tools for MY needs
+*   **PostgreSQL:** My Internships have done a great job to introduce me to the world of data collection and storage, however, I have identified some areas of improvement that I want to make so I can more effectively contribute to my future teams.
+  
+## 🎧 What I'm Listening To
+
+<img src="https://img.icons8.com/color/48/000000/headphones.png" width="24" height="24">
+
+*   **The AI Podcast - NVIDIA:** Recently, I began listening to the early episodes of "The AI Podcast", made around 2016-2017. I was just beginning my engineering journey when we started to see these major advancements in AI. It is fun to hear about "groundbreaking" developments in CNNs, Deep Learning, Speech Recognition, etc. that feel so commonplace today. 
+*   **Software Engineering Daily:** From time to time, this is a great podcast to get in depth explainations of all the latest tech news. It feels like a new AI tool, model, or training method drops every day, this helps separate the hype from the news.
+
+## 🛠️ Technologies & Tools
+
+<img src="https://img.icons8.com/color/48/000000/settings.png" width="24" height="24">
+
+
+*   **Languages:**
+    *   `![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)` JavaScript
+    *   `![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)` TypeScript
+    *   `![Python](https://img.icons8.com/color/48/000000/python.png)` Python
+    *   `![C](https://img.icons8.com/color/48/000000/c-programming.png)` C
+    *   `![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)` C++
+    *   `![SQL](https://img.icons8.com/color/48/000000/sql-logo.png)` SQL
+
+*   **Cloud Platforms:**
+    *   `![Azure](https://img.icons8.com/color/48/000000/microsoft-azure.png)` Microsoft Azure
+    *   `![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)` Amazon Web Services
+
+*   **Databases:**
+    *   `![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)` PostgreSQL
+    *   `![Snowflake](https://img.icons8.com/color/48/000000/snowflake.png)` Snowflake
+    *   `![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)` SQL Server
+
+*   **Tools & Technologies:**
+    *   `![Docker](https://img.icons8.com/color/48/000000/docker.png)` Docker
+    *   `![Git](https://img.icons8.com/color/48/000000/git.png)` Git
+    *   `![Linux](https://img.icons8.com/color/48/000000/linux.png)` Linux
+    *   `![React](https://img.icons8.com/color/48/000000/react-native.png)` React
+    *   `![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code.png)` VS Code
+    *   `![Hugging Face](https://img.icons8.com/color/48/000000/hugging-face.png)` Hugging Face
+    *   `![PGAdmin](https://img.icons8.com/color/48/000000/pgadmin.png)` PGAdmin
+    *   `![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)` TensorFlow
+
+## 🤝 Let's Connect!
+
+<img src="https://img.icons8.com/color/48/000000/handshake.png" width="24" height="24">
+
+I'm always open to collaborating on interesting projects and learning from others.  Feel free to reach out!
+
+*   NicholasCapriotti2001@gmail.com
+
+
+---
+
+Thanks for visiting!  Have a great day! 😄
