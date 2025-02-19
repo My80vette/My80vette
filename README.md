@@ -32,31 +32,31 @@ Welcome to my GitHub profile! I'm a new grad looking to break into the tech fiel
 
 
 *   **Languages:**
-    *   `![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)` JavaScript
-    *   `![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)` TypeScript
-    *   `![Python](https://img.icons8.com/color/48/000000/python.png)` Python
-    *   `![C](https://img.icons8.com/color/48/000000/c-programming.png)` C
-    *   `![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)` C++
-    *   `![SQL](https://img.icons8.com/color/48/000000/sql-logo.png)` SQL
+    *   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+    *   ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
+    *   ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+    *   ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
+    *   ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
+    *   ![SQL](https://img.icons8.com/color/48/000000/sql-logo.png) SQL
 
 *   **Cloud Platforms:**
-    *   `![Azure](https://img.icons8.com/color/48/000000/microsoft-azure.png)` Microsoft Azure
-    *   `![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)` Amazon Web Services
+    *   ![Azure](https://img.icons8.com/color/48/000000/microsoft-azure.png) Microsoft Azure
+    *   ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) Amazon Web Services
 
 *   **Databases:**
-    *   `![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)` PostgreSQL
-    *   `![Snowflake](https://img.icons8.com/color/48/000000/snowflake.png)` Snowflake
-    *   `![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)` SQL Server
+    *   ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) PostgreSQL
+    *   ![Snowflake](https://img.icons8.com/color/48/000000/snowflake.png) Snowflake
+    *   ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) SQL Server
 
 *   **Tools & Technologies:**
-    *   `![Docker](https://img.icons8.com/color/48/000000/docker.png)` Docker
-    *   `![Git](https://img.icons8.com/color/48/000000/git.png)` Git
-    *   `![Linux](https://img.icons8.com/color/48/000000/linux.png)` Linux
-    *   `![React](https://img.icons8.com/color/48/000000/react-native.png)` React
-    *   `![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code.png)` VS Code
-    *   `![Hugging Face](https://img.icons8.com/color/48/000000/hugging-face.png)` Hugging Face
-    *   `![PGAdmin](https://img.icons8.com/color/48/000000/pgadmin.png)` PGAdmin
-    *   `![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)` TensorFlow
+    *   ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker
+    *   ![Git](https://img.icons8.com/color/48/000000/git.png) Git
+    *   ![Linux](https://img.icons8.com/color/48/000000/linux.png) Linux
+    *   ![React](https://img.icons8.com/color/48/000000/react-native.png) React
+    *   ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code.png) VS Code
+    *   ![Hugging Face](https://img.icons8.com/color/48/000000/hugging-face.png) Hugging Face
+    *   ![PGAdmin](https://img.icons8.com/color/48/000000/pgadmin.png) PGAdmin
+    *   ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) TensorFlow
 
 ## 🤝 Let's Connect!
 
