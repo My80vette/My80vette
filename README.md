@@ -37,14 +37,14 @@ Welcome to my GitHub profile! I'm a new grad looking to break into the tech fiel
     *   ![Python](https://img.icons8.com/color/48/000000/python.png) Python
     *   ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
     *   ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
-    *   ![SQL](https://img.icons8.com/color/48/000000/sql-logo.png) SQL
+    *   ![SQL]() MySQL/SQL
 
 *   **Cloud Platforms:**
-    *   ![Azure](https://img.icons8.com/color/48/000000/microsoft-azure.png) Microsoft Azure
+    *   ![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg) Microsoft Azure
     *   ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) Amazon Web Services
 
 *   **Databases:**
-    *   ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) PostgreSQL
+    *   ![PostgreSQL](https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg) PostgreSQL
     *   ![Snowflake](https://img.icons8.com/color/48/000000/snowflake.png) Snowflake
     *   ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) SQL Server
 
@@ -53,8 +53,7 @@ Welcome to my GitHub profile! I'm a new grad looking to break into the tech fiel
     *   ![Git](https://img.icons8.com/color/48/000000/git.png) Git
     *   ![Linux](https://img.icons8.com/color/48/000000/linux.png) Linux
     *   ![React](https://img.icons8.com/color/48/000000/react-native.png) React
-    *   ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code.png) VS Code
-    *   ![Hugging Face](https://img.icons8.com/color/48/000000/hugging-face.png) Hugging Face
+    *   ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) VS Code
     *   ![PGAdmin](https://img.icons8.com/color/48/000000/pgadmin.png) PGAdmin
     *   ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) TensorFlow
 
