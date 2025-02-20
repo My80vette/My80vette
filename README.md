@@ -4,11 +4,12 @@
 
 Welcome to my GitHub profile! I'm a new grad looking to break into the tech field, Im interested in backend engineering, and I'm really starting to enjoy creating dumb little tools with all the fun pre-trained AI models that are flooding the market.  I love exploring new technologies and practicing system design.  Feel free to browse my repositories and connect with me! 
 
-## 🚀 Current Side Project
+## 🚀 Current Side Projects
 
 <img src="https://img.icons8.com/color/48/000000/rocket.png" width="24" height="24">
 
 *   **LifeFlow Kanban Board:** A kanban style to-do list to study relational database design, introduce myself to React, and strengthen my TS/JS/Python skills. [See My Progress](https://github.com/My80vette/lifeFlow_Kanban_Board)
+*   **N8N Agentic Ai Study Tool:** Utilizing the localized version of N8N Community and Ollama, as an introduction to Agentic AIs, I am creating a tool that will connect to my google drive to see what topics and projects I want to work on, and based around my schedule for the day, It breaks down the topic into its subchapters, tells me what modules, chapters, or features I should target, and it will design a rough outline of my day. I later hope to connect it with other AI based study tools to generate and gather resources from the web more effectively. This is to help me combat my ADHD, which makes time management something I have struggled with in the past. The goal is to build this Agent into a full-fledged life management system that connects with my LifeFlow Kanban Board once that projects finishes development.
 
 
 ## 📚 What I'm Learning
