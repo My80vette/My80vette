@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a new grad looking to break into the tech fiel
 
 ## 🚀 Current Side Projects
 
-<img src="https://img.icons8.com/color/48/000000/rocket.png" width="24" height="24">
 
 *   **LifeFlow Kanban Board:** A kanban style to-do list to study relational database design, introduce myself to React, and strengthen my TS/JS/Python skills.
 *   **N8N Agentic Ai Study Tool:** Utilizing the localized version of N8N Community and Ollama, as an introduction to Agentic AIs, I am creating a tool that will injest a text file to see what topics and projects I want to work on, and based around my schedule for the day, It breaks down the topic into its subchapters, tells me what modules, chapters, or features I should target, and it will design a rough outline of my day. I later hope to connect it with other AI based study tools to generate and gather resources from the web more effectively. This is to help me combat my ADHD, which makes time management something I have struggled with in the past. The goal is to build this Agent into a full-fledged life management system that connects with my LifeFlow Kanban Board once that projects finishes development.
@@ -14,7 +13,6 @@ Welcome to my GitHub profile! I'm a new grad looking to break into the tech fiel
 
 ## 📚 What I'm Learning
 
-<img src="https://img.icons8.com/color/48/000000/open-book.png" width="24" height="24">
 
 *   **React Framework:** React, and other front end frameworks are important to my development as an engineer. Learning a to use a powerful front end tool allows me to go from creating small, technical, academic type "projects", to developing actual applications.
 *   **Ollama Local LLMs:** While it's really cool to see all the amazing tools developers are making with AI, I have more fun learning HOW the tools work, seeing behind the curtain, and being able to build tools for MY needs
@@ -22,7 +20,7 @@ Welcome to my GitHub profile! I'm a new grad looking to break into the tech fiel
   
 ## 🎧 What I'm Listening To
 
-<img src="https://img.icons8.com/color/48/000000/headphones.png" width="24" height="24">
+
 
 *   **The AI Podcast - NVIDIA:** Recently, I began listening to the early episodes of "The AI Podcast", made around 2016-2017. I was just beginning my engineering journey when we started to see these major advancements in AI. It is fun to hear about "groundbreaking" developments in CNNs, Deep Learning, Speech Recognition, etc. that feel so commonplace today. 
 *   **Software Engineering Daily:** From time to time, this is a great podcast to get in depth explainations of all the latest tech news. It feels like a new AI tool, model, or training method drops every day, this helps separate the hype from the news.
@@ -30,7 +28,7 @@ Welcome to my GitHub profile! I'm a new grad looking to break into the tech fiel
 
 ## 🛠️ Technologies & Tools
 
-<img src="https://img.icons8.com/color/48/000000/settings.png" width="24" height="24">
+
 
 
 *   **Languages:**
@@ -61,7 +59,6 @@ Welcome to my GitHub profile! I'm a new grad looking to break into the tech fiel
 
 ## 🤝 Let's Connect!
 
-<img src="https://img.icons8.com/color/48/000000/handshake.png" width="24" height="24">
 
 I'm always open to collaborating on interesting projects and learning from others.  Feel free to reach out!
 
