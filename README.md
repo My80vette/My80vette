@@ -4,6 +4,30 @@
 
 Welcome to my GitHub profile! I'm a new grad looking to break into the tech field, Im interested in backend engineering, and I'm really starting to enjoy creating dumb little tools with all the fun pre-trained AI models that are flooding the market.  I love exploring new technologies and practicing system design.  Feel free to browse my repositories and connect with me! 
 
+## 💼 Experience
+
+### 🚀 Software Development Intern, CashOn - San Jose, CA 
+
+* <img src="https://img.icons8.com/fluency/24/000000/code.png" alt="Code Icon"/> Contributed to the development of a **robust data pipeline** using **JavaScript** and **TypeScript** to efficiently collect and process home data for tens of thousands of properties via Zillow’s API.
+* <img src="https://img.icons8.com/fluency/24/000000/chrome.png" alt="Chrome Icon"/> Leveraged **Chrome's caching mechanism** to maintain the state of data collection and processing across application sessions, ensuring seamless data completion upon reopening.
+*  Enhanced **data quality** by modifying collection and storage methods to monitor and remove expired data.
+*  Designed a user-driven **web scraping** method, enabling efficient collection, processing, and storage of property data via background API requests during normal application use.
+
+### 🛠️ DevOps Engineering Intern, Meritage Homes - Scottsdale, AZ 
+
+* <img src="https://img.icons8.com/fluency/24/000000/database.png" alt="Database Icon"/> Redesigned **SQL data schema**, implemented **data validation checks**, and successfully modified over 30,000 records across 6 tables, ensuring **data integrity** throughout the ETL process.
+* <img src="https://img.icons8.com/fluency/24/000000/communication.png" alt="Communication Icon"/> Served as the **primary liaison** with a partner Agile team, providing comprehensive progress reports to the internal team.
+*  Implemented a **role-based access management system** for developers and IT personnel, enhancing **security** for production data and developing a strong understanding of **networking fundamentals** with distributed systems.
+
+### 🎓 Capstone Project: Cloud Based Generative AI SME Azure, Python/Streamlit, LLMs
+
+* <img src="https://img.icons8.com/fluency/24/000000/artificial-intelligence.png" alt="AI Icon"/> Spearheaded the development of a **custom retrieval augmented generation (RAG) platform** to serve as a **virtual subject matter expert** for the Jet Propulsion Laboratory.
+*  Designed and implemented the backend using **Microsoft Azure Cloud Services**.
+* <img src="https://img.icons8.com/fluency/24/000000/chatbot.png" alt="Chatbot Icon"/> Deployed a custom **GPT-3.5 instance** that queried **Azure AI Search** to retrieve relevant information from **Azure Blob storage**, integrated with a **Python/Streamlit chatbot interface** and a small ADA model for input tokenization.
+* <img src="https://img.icons8.com/fluency/24/000000/collaboration.png" alt="Collaboration Icon"/> Facilitated **stakeholder engagement** to translate abstract concepts into concrete requirements, fostering a collaborative development process.
+* <img src="https://img.icons8.com/fluency/24/000000/docker.png" alt="Docker Icon"/> Utilized **Docker** for containerization, enabling seamless deployment of the platform on **Azure Web Services**.
+
+
 ## 🚀 Current Side Projects
 
 
