@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a new grad looking to break into the tech fiel
 
 <img src="https://img.icons8.com/color/48/000000/rocket.png" width="24" height="24">
 
-*   **LifeFlow Kanban Board:** A kanban style to-do list to study relational database design, introduce myself to React, and strengthen my TS/JS/Python skills. [See My Progress](https://github.com/My80vette/lifeFlow_Kanban_Board)
-*   **N8N Agentic Ai Study Tool:** Utilizing the localized version of N8N Community and Ollama, as an introduction to Agentic AIs, I am creating a tool that will connect to my google drive to see what topics and projects I want to work on, and based around my schedule for the day, It breaks down the topic into its subchapters, tells me what modules, chapters, or features I should target, and it will design a rough outline of my day. I later hope to connect it with other AI based study tools to generate and gather resources from the web more effectively. This is to help me combat my ADHD, which makes time management something I have struggled with in the past. The goal is to build this Agent into a full-fledged life management system that connects with my LifeFlow Kanban Board once that projects finishes development.
+*   **LifeFlow Kanban Board:** A kanban style to-do list to study relational database design, introduce myself to React, and strengthen my TS/JS/Python skills.
+*   **N8N Agentic Ai Study Tool:** Utilizing the localized version of N8N Community and Ollama, as an introduction to Agentic AIs, I am creating a tool that will injest a text file to see what topics and projects I want to work on, and based around my schedule for the day, It breaks down the topic into its subchapters, tells me what modules, chapters, or features I should target, and it will design a rough outline of my day. I later hope to connect it with other AI based study tools to generate and gather resources from the web more effectively. This is to help me combat my ADHD, which makes time management something I have struggled with in the past. The goal is to build this Agent into a full-fledged life management system that connects with my LifeFlow Kanban Board once that projects finishes development.
 
 
 ## 📚 What I'm Learning
@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm a new grad looking to break into the tech fiel
 
 *   **The AI Podcast - NVIDIA:** Recently, I began listening to the early episodes of "The AI Podcast", made around 2016-2017. I was just beginning my engineering journey when we started to see these major advancements in AI. It is fun to hear about "groundbreaking" developments in CNNs, Deep Learning, Speech Recognition, etc. that feel so commonplace today. 
 *   **Software Engineering Daily:** From time to time, this is a great podcast to get in depth explainations of all the latest tech news. It feels like a new AI tool, model, or training method drops every day, this helps separate the hype from the news.
+*   **The TB 12 Method - Tom Brady:** I have become super interested in "the power of the mind" and what we can acomplish when we stop imposing mental barriers on ourselves. This is a great mental-tool that helps me relax my brain when I want to step away from code.
 
 ## 🛠️ Technologies & Tools
 
