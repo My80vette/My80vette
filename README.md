@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a new grad looking to break into the tech fiel
 *  Facilitated **stakeholder engagement** to translate abstract concepts into concrete requirements, fostering a collaborative development process.
 *  Utilized **Docker** for containerization, enabling seamless deployment of the platform on **Azure Web Services**.
 *  Developed a great foundation in **RAG Systems**. Learning how to deal with: hallucinations, prompt engineering, source citing, tokenization, generating embeddings, API calls to LLMs, and much more.
-*  Went from a comlete novice to designing our entire backend architecture utilizng **Microsoft Azure** to handle data storage, model hosting, hosting our app service, and implementing vector stores and AI search for our custom RAG. Learning tons of Azure fundamentals.
+*  Went from a comlete novice to designing our entire backend architecture utilizing **Microsoft Azure** to handle data storage, model hosting, hosting our app service, and implementing vector stores and AI search for our custom RAG. Learning tons of Azure fundamentals.
 
 
 ## 🚀 Current Side Projects
