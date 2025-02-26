@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a new grad looking to break into the tech fiel
 
 ### 🎓 Capstone Project: Cloud Based Generative AI SME Azure, Python/Streamlit, LLMs
 
-*  Spearheaded the development of a **custom retrieval augmented generation (RAG) platform** to serve as a **virtual subject matter expert** for the Jet Propulsion Laboratory.
+*  Spearheaded the development of a **custom retrieval augmented generation (RAG) platform** to serve as a **virtual subject matter expert** on a Senior Project sponsored by JPL.
 *  Designed and implemented the backend using **Microsoft Azure Cloud Services**.
 *  Deployed a custom **GPT-3.5 instance** that queried **Azure AI Search** to retrieve relevant information from **Azure Blob storage**, integrated with a **Python/Streamlit chatbot interface** and a small ADA model for input tokenization.
 *  Facilitated **stakeholder engagement** to translate abstract concepts into concrete requirements, fostering a collaborative development process.
