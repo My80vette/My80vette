@@ -85,15 +85,7 @@ Welcome to my GitHub profile! I'm a new grad looking to break into the tech fiel
     *   TensorFlow
 
 ## 🤝 Let's Connect!
-
-"We arrive too late to chart the Earth's last corners, too early to journey beyond its bounds. But we are here to navigate the uncharted waters of AI, a voyage of innovation." - Me (with the help of Gemini)
-
-
 I'm always open to collaborating on interesting projects and learning from others.  Feel free to reach out!
-
 *   NicholasCapriotti2001@gmail.com
-
-
 ---
-
-Thanks for visiting!  Have a great day! 😄
+"We arrive too late to chart the Earth's last corners, too early to journey beyond its bounds. But we are here to navigate the uncharted waters of AI, a voyage of innovation." - Me (with the help of Gemini)
