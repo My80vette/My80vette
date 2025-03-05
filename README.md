@@ -13,9 +13,6 @@ Welcome to my GitHub profile! I'm a new grad looking to break into the tech fiel
 **Completely Localized Blog Generation Ai Agent:**  
 *   After playing around with N8N and other LangChain tools, I have found a new passion for creating automated workflows to enhance my life. The first big Idea I am making is going to take advantage of Ollama and open-source LLMs to automatically update a Github based ReadMe blog! The goal is to enter my daily achievements into a text document, then have the workflow parse and clean the data, pass it to a reasoning model like Llama3.1, have it generate a compelling blog post to update recruiters about my daily task, and finally push the commit into my Github Blog! This is a great project to learn the basics of low-code agentic AI solutions, and I am learning about a new functionality every few minutes!  
 
-**Personal Website:**  
-*   All good developers need a website, I want a place to show some more advanced UI skills, and my resume. I want to also use it as a playground to implement some fun tools like a web-hosted image generator powered by Stable Diffusion, and a RAG style Chatbot that answers questions about myeself. I have so many ideas for how I want to use these fun, local models, and thanks to Ollama and SD frame, but I need to work around my hardware and resource requirements, although the API usage is fairly straight forawrd.
-
 
 ## 💼 Experience
 
