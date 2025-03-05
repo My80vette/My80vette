@@ -4,6 +4,14 @@
 
 Welcome to my GitHub profile! I'm a new grad looking to break into the tech field, Im interested in backend engineering, and I'm really starting to enjoy creating tools that can be impactful to my daily life while leveraging the open source AI models that are flooding the market. I think its amazing that I can use enterprise level AI models without spending money to train them, and I dont have to sacrifice my own data security when doing so. I love exploring new technologies and I am amazed at the rate that new tools are being released.  Feel free to browse my repositories and connect with me! 
 
+## 🚀 Current Side Projects
+
+
+*   **Ollama Chatbot Persona Explorer:** An Ollama Powered chatbot centered around React, Express, and MongoDB. To gain experience building full-stack applications with modern tools, I will be building a web app that utilizes Ollama to run various Open Source models, respond in various ways based on system prompting instructions, and practice prompt engineering for smaller models.
+*   **Completely Localized Blog Generation Ai Agent:** After playing around with N8N and other LangChain tools, I have found a new passion for creating automated workflows to enhance my life. The first big Idea I am making is going to take advantage of Ollama and open-source LLMs to automatically update a Github based ReadMe blog! The goal is to enter my daily achievements into a text document, parse and clean the data, pass it to a reasoning model like Llama3.1, have it generate a compelling blog post to update recruiters about my daily task, and finally push the commit into my Github Blog! This is a great project to learn the basics of low-code agentic AI solutions, and I am learning about a new functionality every few minutes!
+*   **Personal Website:** All good developers need a website, I want a place to show some more advanced UI skills, and my resume. I want to also use it as a playground to implement some fun tools like a web-hosted image generator powered by Stable Diffusion, and a RAG style Chatbot that answers questions about myeself. I have so many ideas for how I want to use these fun, local models, and thanks to Ollama and SD frame, but I need to work around my hardware and resource requirements, although the API usage is fairly straight forawrd.
+
+
 ## 💼 Experience
 
 ### 🚀 Software Development Intern, CashOn - San Jose, CA 
@@ -30,12 +38,6 @@ Welcome to my GitHub profile! I'm a new grad looking to break into the tech fiel
 *  Went from a comlete novice to designing our entire backend architecture utilizing **Microsoft Azure** to handle data storage, model hosting, hosting our app service, and implementing vector stores and AI search for our custom RAG. Learning tons of Azure fundamentals.
 
 
-## 🚀 Current Side Projects
-
-
-*   **Ollama Chatbot** An Ollama Powered chatbot centered around React, Express, and MongoDB. To gain experience building full-stack applications with modern tools, I will be building a web app that utilizes Ollama to run various Open Source models, respond in various ways based on system prompting instructions, and practice prompt engineering for smaller models.
-*   **N8N Agentic Ai Study Tool:** Utilizing the localized version of N8N Community and Ollama, as an introduction to Agentic AIs, I am creating a tool that will injest a text file to see what topics and projects I want to work on, and based around my schedule for the day, It breaks down the topic into its subchapters, tells me what modules, chapters, or features I should target, and it will design a rough outline of my day. I later hope to connect it with other AI based study tools to generate and gather resources from the web more effectively. This is to help me combat my ADHD, which makes time management something I have struggled with in the past. The goal is to build this Agent into a full-fledged life management system that connects with my LifeFlow Kanban Board once that projects finishes development.
-*   **Personal Website:** All good developers need a website, I want a place to show some more advanced UI skills, and my resume. I want to also use it as a playground to implement some fun tools like a web-hosted image generator powered by Stable Diffusion, and a RAG style Chatbot that answers questions about myeself. I have so many ideas for how I want to use these fun, local models, and thanks to Ollama and SD frame, but I need to work around my hardware and resource requirements, although the API usage is fairly straight forawrd.
 
 
 ## 📚 What I'm Learning
