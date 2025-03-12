@@ -1,6 +1,6 @@
 # Howdy! 👋 I'm Nick
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-capriotti-5775031b9/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nick.capriotti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nicholas-capriotti-5775031b9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:NicholasCapriotti2001@gmail.com)
 
 Welcome to my GitHub profile! I'm a new grad looking to break into the tech field, Im interested in backend engineering, and I'm really starting to enjoy creating tools that can be impactful to my daily life while leveraging the open source AI models that are flooding the market. I think its amazing that I can use enterprise level AI models without spending money to train them, and I dont have to sacrifice my own data security when doing so. I love exploring new technologies and I am amazed at the rate that new tools are being released.  Feel free to browse my repositories and connect with me! 
 
