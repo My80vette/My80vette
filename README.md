@@ -4,6 +4,7 @@
 
 Welcome to my GitHub profile! I'm a new grad looking to break into the tech field, Im interested in backend engineering, and I'm really starting to enjoy creating tools that can be impactful to my daily life while leveraging the open source AI models that are flooding the market. I think its amazing that I can use enterprise level AI models without spending money to train them, and I dont have to sacrifice my own data security when doing so. I love exploring new technologies and I am amazed at the rate that new tools are being released.  Feel free to browse my repositories and connect with me! 
 
+
 ## 🚀 Current Side Projects
 
 
@@ -58,36 +59,16 @@ Welcome to my GitHub profile! I'm a new grad looking to break into the tech fiel
 *   **Software Engineering Daily:** From time to time, this is a great podcast to get in depth explainations of all the latest tech news. It feels like a new AI tool, model, or training method drops every day, this helps separate the hype from the news.
 *   **The TB 12 Method - Tom Brady:** I have become super interested in "the power of the mind" and what we can acomplish when we stop imposing mental barriers on ourselves. This is a great mental-tool that helps me relax my brain when I want to step away from code.
 
-## 🛠️ Technologies & Tools
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
+# 📊 GitHub Stats (Public Repos Only):
+
+![](https://nirzak-streak-stats.vercel.app/?user=My80vette&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=My80vette&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-*   **Languages:**
-    *   JavaScript
-    *   TypeScript
-    *   Python
-    *   C
-    *   C++
-    *   SQL
-
-*   **Cloud Platforms:**
-    *   Microsoft Azure
-    *   Amazon Web Services
-
-*   **Databases:**
-    *   PostgreSQL
-    *   Snowflake
-    *   SQL Server
-
-*   **Tools & Technologies:**
-    *   Docker
-    *   Git
-    *   Linux
-    *   React
-    *   VS Code
-    *   PGAdmin
-    *   TensorFlow
 
 ## 🤝 Let's Connect!
 I'm always open to collaborating on interesting projects and learning from others.  Feel free to reach out!
