@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a new grad looking to break into the tech fiel
 *   An Ollama Powered chatbot centered around React, Express, and MongoDB. To gain experience building full-stack applications with modern tools, I will be building a web app that utilizes Ollama to run various Open Source models, respond in various ways based on system prompting instructions, and practice prompt engineering for smaller models.
 
 **SesameAI Text To Speech Generation:**
-*  Utilizng cursor, I spun up a quick UI to allow me to send text to a local instance of the newest Sesame Text - To - Speech model! My 3060TI is starting to show its age a little bit due to its 8GB VRAM, leading me to consider upgrading to avoid 8 and 4 bit quantization, to really see what these models are capable of! I cant wait until I get my first real job, I am 100% investing an my own enterprise GPU to start running these models at full-scale... some day.
+*  Utilizng cursor, I spun up a quick UI to allow me to send text to a local instance of the newest Sesame Text - To - Speech model! My 3060TI is starting to show its age a little bit due to its 8GB VRAM, leading me to consider upgrading to avoid 8 and 4 bit quantization, to really see what these models are capable of! I cant wait until I get my first real job, I am 100% investing in my own enterprise GPU to start running these models at full-scale... some day.
 
 
 ## 💼 Experience
