@@ -8,11 +8,10 @@ Welcome to my GitHub profile! I'm a new grad looking to break into the tech fiel
 ## 🚀 Current Side Projects
 
 
-**Personalized FAANG Interview Prep Agent:**  
-*   The goal is to move from simple N8N workflows (which are still impressive) and start getting my hands dirty with real agentic AI! The goal is to create a Langchain agent that, on a daily basis, generates a focused study plan tailored to your FAANG interview preparation. This plan will cover key topics like the LeetCode 150 (or Blind 75), fundamental Data Structures and Algorithms (DSA), and system design basics. The agent will curate resources, suggest knowledge checks, and guide you towards interactive exercises and small coding challenges. It will also track your progress against your overall goals. I plan to do this project utilizng the documentation provided through whichever model provider I choose, limiting tool use like CoPilot and Cursor to basic task like project spinups, and tasks that slow down learning.
-
-**SesameAI Text To Speech Generation:**
-*  Utilizng cursor, I spun up a quick UI to allow me to send text to a local instance of the newest Sesame Text - To - Speech model! My 3060TI is starting to show its age a little bit due to its 8GB VRAM, leading me to consider upgrading to avoid 8 and 4 bit quantization, to really see what these models are capable of! I cant wait until I get my first real job, I am 100% investing in my own enterprise GPU to start running these models at full-scale... some day.
+**Deploying Fine Tuned LLMs To The Cloud:**  
+I am currently working on fine-tuning LLMs with various types of data and deploying them with Azure AI Foundry, Docker, Azure Web Services, and Python (StreamLit) for the UI. This is a project designed to get myself used to the end-to-end LLM deployment pipeline. We will use various MLOps tools to monitor the model after deployment, with the hope of having multiple models available, each fine tuned for a diferent purpose to showcase LLM flexibility.  
+  
+**Tech Stack:** Azure Blob Storage, Azure AI Foundry, Azure Web Services, Ollama, HuggingFace, Python (Streamlit, Requests, Azure SDK)
 
 
 ## 💼 Experience
