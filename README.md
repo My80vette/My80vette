@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm a new grad looking to break into the tech fiel
 
 
 **Deploying Fine Tuned LLMs To The Cloud:**  
-I am currently working on fine-tuning LLMs with various types of data and deploying them with Azure AI Foundry, Docker, Azure Web Services, and Python (StreamLit) for the UI. This is a project designed to get myself used to the end-to-end LLM deployment pipeline. We will use various MLOps tools to monitor the model after deployment, with the hope of having multiple models available, each fine tuned for a diferent purpose to showcase LLM flexibility.  
+I am currently working on fine-tuning LLMs with various types of data utilizing Google colab and deploying them with Azure AI Foundry, Docker, Azure Web Services, and Python (StreamLit) for the UI. This is a project designed to get myself used to the end-to-end LLM deployment pipeline. We will use various MLOps tools to monitor the model after deployment, with the hope of having multiple models available, each fine tuned for a diferent purpose to showcase LLM flexibility.  
   
-**Tech Stack:** Azure Blob Storage, Azure AI Foundry, Azure Web Services, Ollama, HuggingFace, Python (Streamlit, Requests, Azure SDK)
+**Tech Stack:** Azure Blob Storage, Azure AI Foundry, Azure Web Services, Ollama, HuggingFace, Python (Streamlit, Requests, Azure SDK), Google Colab
 
 
 ## 💼 Experience
